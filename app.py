@@ -21,7 +21,7 @@ def main():
 @app.route("/aboutus")
 def aboutus():
 
-    return render_template("aboutus.html")
+    return render_template("about_us.html")
 # @app.route("/structure")
 # def structure():
 
